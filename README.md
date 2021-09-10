@@ -1,27 +1,3 @@
-# 💻 Backend Developer 
-
-
-
-
-</br>
-
-# 📱 Android Developer
-### BagelLabs (2020.10 ~ 2021.09)
-- [PIE Fit](https://play.google.com/store/apps/details?id=com.bagellabs.pie)
-
-<br>
-
-### Textory (2019.09 ~ 2020.05)
-- [PC와 폰의 문자 및 통화기록의 동기화 - 텍스토리](https://play.google.com/store/apps/details?id=io.android.textory)
-- [PC와 폰의 문자 및 통화기록의 동기화 - 알린다](https://play.google.com/store/apps/details?id=io.android.textory.allinda)
-- [키즈스토리 학부모 및 선생님용 전자출결](https://play.google.com/store/apps/details?id=io.kizstory.kizstorymobile)
-- [키즈스토리 전용태블릿용 전자출결관리앱](https://play.google.com/store/apps/details?id=io.android.kidsstory)
-
- 
- 
- 
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
